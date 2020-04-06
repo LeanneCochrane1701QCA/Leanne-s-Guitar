@@ -131,25 +131,25 @@ This project is related to mine because it uses the same parts and again this on
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2014%20components%20for%20guitar%20.jpg)
 
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2014%20components%20for%20guitar%20.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2015%20add%20tone%20playing%20events%20A%20B%20buttons.jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2016%20Button%20A%20Tone.jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2017%20Button%20B%20tone.jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2018%20Botton%20A%20playing.jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2019%20Button%20A%20Happy%20Birthday%20plus%20a%20repeat.jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2021%20lets%20learn%20how%20to%20make%20it%20more%20complex.jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2022%20more%20complex%20with%20starwars.jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2023%20Converting%20music%20to%20code.jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2023%20Converting%20music%20to%20code.jpg)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2025%20final%20show%20reinforcing%20on%20back.jpg)
 
 ![Image](missingimage.png)
 
@@ -177,13 +177,13 @@ This project is related to mine because it uses the same parts and again this on
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
-
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2026%20completd%20picture.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20showcase%20Dan%20looking.jpg)
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image]()
 
 ### Reflection ###
 
