@@ -15,9 +15,9 @@ Musical Instrument
 
 https://makecode.microbit.org/courses/csintro/arrays/project
 
-![Image](https://https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/makecodemicrobitorgcoursescsintroarraysproject.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/microbitchallengesreadthedocs.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses the same materials to operate and make the music, it does differ in the code it uses.
 
 ### Related project 2 ###
 Sound
@@ -26,7 +26,7 @@ https://microbit-challenges.readthedocs.io/en/latest/tutorials/music.html
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/microbitchallengesreadthedocs.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because again it uses the same technology to make noise, it uses a different type of code.
 
 ### Related project 3 ###
 Air-guitar
@@ -35,32 +35,32 @@ https://codesg.imda.gov.sg/air-guitar/
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/codesgimdagovsgairguitar.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses similar materies to make it work.
 
 ### Related project 4 ###
 Touch Arpeggiator
 
 https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Touch%20arpeggiator.jpg)
 
 This project is related to mine because (insert reasons here).
 
 ### Related project 5 ###
-(Insert name of project)
+Air Guitar
 
-(Insert URL to project)
+https://make.techwillsaveus.com/microbit/activities/air-guitar
 
-![Image](missingimage.png)
+![Image]https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/maketechwillsaveus.jpg)
 
 This project is related to mine because (insert reasons here).
 
 ### Related project 6 ###
-(Insert name of project)
+Micro:Bit Air Guitar
 
-(Insert URL to project)
+https://www.stuff.tv/features/how-masterthe-bbc-microbit/intermediate-1-microbit-air-guitar
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/stufftvfeatureshowmasterthebbcmicrobit.jpg)
 
 This project is related to mine because (insert reasons here).
 
