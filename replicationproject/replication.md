@@ -15,7 +15,7 @@ Musical Instrument
 
 https://makecode.microbit.org/courses/csintro/arrays/project
 
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/microbitchallengesreadthedocs.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/makecodemicrobitorgcoursescsintroarraysproject.png)
 
 This project is related to mine because it uses the same materials to operate and make the music, it does differ in the code it uses.
 
@@ -51,7 +51,7 @@ Air Guitar
 
 https://make.techwillsaveus.com/microbit/activities/air-guitar
 
-![Image]https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/maketechwillsaveus.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/maketechwillsaveus.jpg)
 
 This project is related to mine because (insert reasons here).
 
