@@ -35,7 +35,7 @@ https://codesg.imda.gov.sg/air-guitar/
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/codesgimdagovsgairguitar.jpg)
 
-This project is related to mine because it uses similar materies to make it work and this one uses a lot of code I was aware of until I made my own project and did the research.
+This project is related to mine because it uses similar materies to make it work and this one uses a lot of code I wasn't aware existed until I made my own project and did the research.
 
 ### Related project 4 ###
 Touch Arpeggiator
@@ -44,7 +44,7 @@ https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Touch%20arpeggiator.jpg)
 
-This project is related to mine because it uses similar parts to make it work, they have added in an extra step by using fruit and a persons hand to change the way the project works, it changes flow of the circuitry.
+This project is related to mine because it uses similar parts to make it work, they have added in an extra step by using fruit and a persons hand to change the way the project works, it changes the flow of the current.
 
 ### Related project 5 ###
 Air Guitar
@@ -62,7 +62,7 @@ https://www.stuff.tv/features/how-masterthe-bbc-microbit/intermediate-1-microbit
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/stufftvfeatureshowmasterthebbcmicrobit.jpg)
 
-This project is related to mine because because it uses the same parts and again this one uses a more technical speaker system to play the music.
+This project is related to mine because it uses the same parts and again this one uses a more technical speaker system to play the music.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
