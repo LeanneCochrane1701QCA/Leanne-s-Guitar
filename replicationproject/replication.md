@@ -26,7 +26,7 @@ https://microbit-challenges.readthedocs.io/en/latest/tutorials/music.html
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/microbitchallengesreadthedocs.jpg)
 
-This project is related to mine because again it uses the same technology to make noise, it uses a different type of code.
+This project is related to mine because again it uses the same technology to make noise, although it does use a different type of code.
 
 ### Related project 3 ###
 Air-guitar
@@ -35,7 +35,7 @@ https://codesg.imda.gov.sg/air-guitar/
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/codesgimdagovsgairguitar.jpg)
 
-This project is related to mine because it uses similar materies to make it work.
+This project is related to mine because it uses similar materies to make it work and this one uses a lot of code I was aware of until I made my own project and did the research.
 
 ### Related project 4 ###
 Touch Arpeggiator
@@ -44,7 +44,7 @@ https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Touch%20arpeggiator.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses similar parts to make it work, they have added in an extra step by using fruit and a persons hand to change the way the project works, it changes flow of the circuitry.
 
 ### Related project 5 ###
 Air Guitar
@@ -53,7 +53,7 @@ https://make.techwillsaveus.com/microbit/activities/air-guitar
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/maketechwillsaveus.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses the same parts, however, this project has used a proper diy speaker kit instead of headphones.
 
 ### Related project 6 ###
 Micro:Bit Air Guitar
@@ -62,7 +62,7 @@ https://www.stuff.tv/features/how-masterthe-bbc-microbit/intermediate-1-microbit
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/stufftvfeatureshowmasterthebbcmicrobit.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because because it uses the same parts and again this one uses a more technical speaker system to play the music.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -103,7 +103,7 @@ This project is related to mine because (insert reasons here).
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Photo%206-4-20%2C%2012%2030%2021%20pm.jpg)
 
 ## Process documentation
 
