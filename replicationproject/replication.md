@@ -153,7 +153,7 @@ https://vimeo.com/404498005
 
 
 *Black paint everywhere but almost there.*
-![Image](mhttps://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20painting%20black%20end.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20painting%20black%20end.jpg)
 
 
 *Guitar and strengthening straps are definitely black.*
@@ -165,6 +165,7 @@ https://vimeo.com/404498005
 
 
 *Some red will make it pretty and make it stand out, I'm going to use bright blue tape to attach the microbit to the guitar and I think the colours will compliment each other.*
+
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20painting%20red.jpg)
 
 
@@ -225,7 +226,7 @@ https://vimeo.com/404498005
 
 
 
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Code%20for%20guitar.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20code.jpg)
 
 
 
