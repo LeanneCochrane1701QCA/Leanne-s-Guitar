@@ -113,49 +113,121 @@ This project is related to mine because it uses the same parts and again this on
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
+### Making the Musical Instrument ###
+
+*Here is a short Timelapse video of me making the cardboard Guitar*
+
 https://vimeo.com/404498005
 
+
+*Drawing a template for the guitar and cutting it out.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%201%20template.jpg)
 
+
+*Adding detail to the cutout to make it more realistic.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%202%20Template.jpg)
 
+
+*Now what to use for my instrument, a hoarders house would certainly have a box!*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%203%20Cardboard.jpg)
 
+
+*Perfect size for a guitar, lets add the template.*
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%204%20Rectangle%20cutout.jpg)
+
+
+*Cutting out the guitar, carefully.*
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20cutting%20out%20begin.jpg)
+
+
+*Almost finished and it's looking good.*
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20cutout.jpg)
+
+
+*The neck of the guitar is a little flimsy, we might need some strips for strengthing.*
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20strengthing.jpg)
+
+
+*Let's make the base colour of the guitar black.*
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20painting%20black.jpg)
+
+
+*Black paint everywhere but almost there.*
+![Image](mhttps://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20painting%20black%20end.jpg)
+
+
+*Guitar and strengthening straps are definitely black.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%207%20Paint%20black.jpg)
 
+
+*Let's add some white to make sure the microbit will show up once we attach it and make the guitar look more realistic.*
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20painting%20white%20.jpg)
+
+
+*Some red will make it pretty and make it stand out, I'm going to use bright blue tape to attach the microbit to the guitar and I think the colours will compliment each other.*
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20painting%20red.jpg)
+
+
+*Painting completed, it's looking very fancy now!*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2010%20Paint.jpg)
 
+
+*The handle is quite flimsy so I need to add the two strips of reinforcement to the back of the guitar.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2011%20reinforce%20handle.jpg)
 
+
+*I don't have any crocodile clips but we have a reel of old wire in the garage I will use the wire cutters to cut this and clip off the wire ends.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2012%20about%20to%20cut%20wires%20.jpg)
 
+
+*That was easy enough, I'm hoping I will be able to get a better connection with these wires, should be easy to wind around and manipulate.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2013%20cut%20wires%20ready.jpg)
+
+
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2014%20components%20for%20guitar%20.jpg)
 
+
+
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2015%20add%20tone%20playing%20events%20A%20B%20buttons.jpg)
+
+
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2016%20Button%20A%20Tone.jpg)
 
+
+
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2017%20Button%20B%20tone.jpg)
+
+
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2018%20Botton%20A%20playing.jpg)
 
+
+
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2019%20Button%20A%20Happy%20Birthday%20plus%20a%20repeat.jpg)
+
+
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2021%20lets%20learn%20how%20to%20make%20it%20more%20complex.jpg)
 
+
+
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2022%20more%20complex%20with%20starwars.jpg)
+
+
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2023%20Converting%20music%20to%20code.jpg)
 
+
+
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2025%20final%20show%20reinforcing%20on%20back.jpg)
 
-![Image](missingimage.png)
 
-![Image](missingimage.png)
 
-![Image](missingimage.png)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Code%20for%20guitar.png)
+
+
 
 ![Image](missingimage.png)
 
