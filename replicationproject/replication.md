@@ -113,7 +113,53 @@ This project is related to mine because it uses the same parts and again this on
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%201%20template.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%202%20Template.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%203%20Cardboard.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%207%20Paint%20black.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2010%20Paint.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2011%20reinforce%20handle.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2012%20about%20to%20cut%20wires%20.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2013%20cut%20wires%20ready.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2014%20components%20for%20guitar%20.jpg)
+
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2014%20components%20for%20guitar%20.jpg)
+
 ![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+
 
 *Include screenshots of the code you have used.*
 
