@@ -149,8 +149,6 @@ https://vimeo.com/404498005
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2023%20Converting%20music%20to%20code.jpg)
 
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2023%20Converting%20music%20to%20code.jpg)
-
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2025%20final%20show%20reinforcing%20on%20back.jpg)
 
 ![Image](missingimage.png)
@@ -185,7 +183,7 @@ https://vimeo.com/404498005
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](https://vimeo.com/manage/404484517/general)
+https://vimeo.com/manage/404484517/general
 
 ### Reflection ###
 
