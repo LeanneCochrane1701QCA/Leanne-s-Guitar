@@ -103,7 +103,7 @@ This project is related to mine because it uses the same parts and again this on
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Photo%206-4-20%2C%2012%2030%2021%20pm.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20Flow%20Chart.jpg)
 
 ## Process documentation
 
@@ -205,28 +205,28 @@ https://vimeo.com/404498005
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2018%20Botton%20A%20playing.jpg)
 
 
-
+*Code on computer for button A*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2019%20Button%20A%20Happy%20Birthday%20plus%20a%20repeat.jpg)
 
 
-
+*Some of the music explained for this beginner - source: micromonsters,youtube,2017
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2021%20lets%20learn%20how%20to%20make%20it%20more%20complex.jpg)
 
 
-
+*Star Wars theme musical notes - source: micromonsters,youtube,2017
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2022%20more%20complex%20with%20starwars.jpg)
 
 
-
+*Converting the notes from C3, D5, G4 etc.. to Low C, High D, MIddle G etc...very confusing for a non-musical person!*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2023%20Converting%20music%20to%20code.jpg)
 
 
-
+*Showing the use of extra strength on the neck of the guitar*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2025%20final%20show%20reinforcing%20on%20back.jpg)
 
 
-
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20code.jpg)
+*Showing the screenshot of the code for 'Happy Birthday' repeat twice and 'Star Wars' theme song.
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20code%20(Canva-edited).jpg)
 
 
 
