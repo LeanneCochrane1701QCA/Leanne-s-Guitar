@@ -153,12 +153,10 @@ https://vimeo.com/404498005
 
 
 *Cutting out the guitar, carefully.*
-
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20cutting%20out%20begin.jpg)
 
 
 *Almost finished and it's looking good.*
-
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20cutout.jpg)
 
 
@@ -183,7 +181,6 @@ https://vimeo.com/404498005
 
 
 *Some red will make it pretty and make it stand out, I'm going to use bright blue tape to attach the microbit to the guitar and I think the colours will compliment each other.*
-
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20painting%20red.jpg)
 
 
@@ -192,7 +189,6 @@ https://vimeo.com/404498005
 
 
 *The handle is quite flimsy so I need to add the two strips of reinforcement to the back of the guitar. I will rest this gym bar on it to make sure it sticks well.*
-
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2011%20reinforce%20handle.jpg)
 
 
@@ -208,7 +204,7 @@ https://vimeo.com/404498005
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2014%20components%20for%20guitar%20.jpg)
 
 
-*Coding for Button A and B
+*Coding for Button A and B*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2015%20add%20tone%20playing%20events%20A%20B%20buttons.jpg)
 
 
@@ -246,26 +242,26 @@ https://vimeo.com/404498005
 *Include screenshots of the code you have used.*
 
 *Showing the screenshot of the code for 'Happy Birthday' repeat twice and 'Star Wars' theme song.*
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20code%20(Canva-edited).jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20Code%20for%20both%20songs.jpg)
 
 ## Project outcome ##
 
 *Complete the following information.*
 
 ### Project title ###
-##My Guitar##
+## My Guitar ## 
 
 ### Project description ###
 
 *In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
-*The guitar is for a child to play make believe 'Rockstar'. The Instrument plays 'Happy Birthday' when button A is pushed and plays the 'Star Wars' theme song when Button B is pushed. 
+*The guitar is for a child to play make believe 'Rockstar'. The Instrument plays 'Happy Birthday' when button A is pushed and plays the 'Star Wars' theme song when Button B is pushed.* 
 
 ### Showcase image ###
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
 *Look at the latest Air Guitar on the market, it is truly an experience you will never forget once you've played it no other will ever compare!*
-![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2026%20completd%20picture.jpg)
+![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2026%20completd%20picture%20rotate.jpg)
 *If only I could work out how to rotate this image*
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
