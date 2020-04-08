@@ -71,57 +71,57 @@ https://www.stuff.tv/features/how-masterthe-bbc-microbit/intermediate-1-microbit
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading. 
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.* 
 
-Good and memorable experiences are in important part in ensuring an interaction works well, if the person is frustrated by the experience then they are not going to want continue with the product.  If the experience is a good one then the person will want to have that experience again and therefore the interaction is a potential profitable one.*
+*Good and memorable experiences are in important part in ensuring an interaction works well, if the person is frustrated by the experience then they are not going to want continue with the product.  If the experience is a good one then the person will want to have that experience again and therefore the interaction is a potential profitable one.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge. 
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.* 
 
-With a design product we need affordances to show us what actions are possible and signifiers to show us where the action should take place.  We need both but in design the signifier is the more important because it communicates how to use the project or design properly or for its intended purpose.*
+*With a design product we need affordances to show us what actions are possible and signifiers to show us where the action should take place.  We need both but in design the signifier is the more important because it communicates how to use the project or design properly or for its intended purpose.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about. 
+*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.* 
 
-I think I’d like to learn more about feedback, I never realised how frustrated and annoyed I get at lights, whether when waiting in my car or to cross at the lights.  I never know whether the lights are working because they seem to take forever. I would like to make sure my next project gives immediate feedback.*
+*I think I’d like to learn more about feedback, I never realised how frustrated and annoyed I get at lights, whether when waiting in my car or to cross at the lights.  I never know whether the lights are working because they seem to take forever. I would like to make sure my next project gives immediate feedback.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project. 
+*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.* 
 
-One thing that annoyed me about my musical instrument project was that I never knew totally whether the tone was working, I think I need to make sure with my next project that the feedback from whatever I create is reasonably timed so you know it has worked.*
+*One thing that annoyed me about my musical instrument project was that I never knew totally whether the tone was working, I think I need to make sure with my next project that the feedback from whatever I create is reasonably timed so you know it has worked.*
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading. 
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.* 
 
-I just really didn’t think about microinteractions to be honest, I might occasionally marvel at something and think wow, there are some smart people around or I wonder who thought to make this.* 
+*I just really didn’t think about microinteractions to be honest, I might occasionally marvel at something and think wow, there are some smart people around or I wonder who thought to make this.* 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge. 
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.* 
 
-I had no idea what microinteractions were to be honest, it is fascinating to think that so many things I do on a regular basis have been so well thought out and I just take them for granted. Hopefully in moving forward I will take more note.*
+*I had no idea what microinteractions were to be honest, it is fascinating to think that so many things I do on a regular basis have been so well thought out and I just take them for granted. Hopefully in moving forward I will take more note.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about. 
+*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.* 
 
-I would now love to learn more about this process and how they do these things, it truly is quite remarkable, that someone is constantly sitting in a room and thinking about how to change everyday taken for granted things.  I would love to know how to rotate a portrait picture in Github or Dropbox to a landscape picture for a start as this is so frustrating! All these wonderful things out there and I can’t turn a picture around for this assignment.*
+*I would now love to learn more about this process and how they do these things, it truly is quite remarkable, that someone is constantly sitting in a room and thinking about how to change everyday taken for granted things.  I would love to know how to rotate a portrait picture in Github or Dropbox to a landscape picture for a start as this is so frustrating! All these wonderful things out there and I can’t turn a picture around for this assignment.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project. 
+*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.* 
 
-On reflection of the project I have done, there is so many other things I would love to change about it, add to it and make it do, I’d love to make it way more interactive and less clunky.  Reading this article and everything I do with this subject at the minute highlights something else I would love to know about and be able to do, if only we could create something that would delay time so I could fit in all of these things that I want to learn about.  Spending hours on the internet researching how to do things unfortunately isn’t a luxury a lot of us have!*
+*On reflection of the project I have done, there is so many other things I would love to change about it, add to it and make it do, I’d love to make it way more interactive and less clunky.  Reading this article and everything I do with this subject at the minute highlights something else I would love to know about and be able to do, if only we could create something that would delay time so I could fit in all of these things that I want to learn about.  Spending hours on the internet researching how to do things unfortunately isn’t a luxury a lot of us have!*
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading. 
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.* 
 
-Unfortunately, my knowledge on such subjects is rudimentary to say the least, however, I am learning very quickly that there is many different ways to get a project to work and it is very exciting.*
+*Unfortunately, my knowledge on such subjects is rudimentary to say the least, however, I am learning very quickly that there is many different ways to get a project to work and it is very exciting.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge. 
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.* 
 
-I had know idea what a Arduino was but am fascinated to learn more about this product and to delve into code a lot more as it really does seem an important part of product design.*
+*I had know idea what a Arduino was but am fascinated to learn more about this product and to delve into code a lot more as it really does seem an important part of product design.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about. 
+*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.* 
 
-I would love to know more about how the Arduino works, I want to use movement sensors to turn on a light in my main project potentially.  I will be doing some more research based on this article.*
+*I would love to know more about how the Arduino works, I want to use movement sensors to turn on a light in my main project potentially.  I will be doing some more research based on this article.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project. 
+*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.* 
 
-It was a great read, the guy is passionate and excited about his work and it comes across in his writing.  It has made me think about different ways of setting up my next project and what I might do for my next project.*
+*It was a great read, the guy is passionate and excited about his work and it comes across in his writing.  It has made me think about different ways of setting up my next project and what I might do for my next project.*
 
 
 ## Interaction flowchart ##
@@ -204,23 +204,23 @@ https://vimeo.com/404498005
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2013%20cut%20wires%20ready.jpg)
 
 
-
+*All the parts needed to make some music.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2014%20components%20for%20guitar%20.jpg)
 
 
-
+*Coding for Button A and B
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2015%20add%20tone%20playing%20events%20A%20B%20buttons.jpg)
 
 
-
+*Button A smiley face*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2016%20Button%20A%20Tone.jpg)
 
 
-
+*Button B smiley face*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2017%20Button%20B%20tone.jpg)
 
 
-
+*Trialing the piezo element buzzer for sound, which unfortunately didn't work.  I couldn't get the wires to connect well enough.* 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2018%20Botton%20A%20playing.jpg)
 
 
@@ -243,26 +243,22 @@ https://vimeo.com/404498005
 *Showing the use of extra strength on the neck of the guitar.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2025%20final%20show%20reinforcing%20on%20back.jpg)
 
+*Include screenshots of the code you have used.*
 
 *Showing the screenshot of the code for 'Happy Birthday' repeat twice and 'Star Wars' theme song.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20code%20(Canva-edited).jpg)
-
-
-![Image](missingimage.png)
-
-
-
-*Include screenshots of the code you have used.*
 
 ## Project outcome ##
 
 *Complete the following information.*
 
 ### Project title ###
+##My Guitar##
 
 ### Project description ###
 
 *In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+*The guitar is for a child to play make believe 'Rockstar'. The Instrument plays 'Happy Birthday' when button A is pushed and plays the 'Star Wars' theme song when Button B is pushed. 
 
 ### Showcase image ###
 
@@ -283,19 +279,22 @@ https://vimeo.com/manage/404484517/general
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
+*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
 
-I was very pleased with the aesthetics of the guitar and was super proud of my conversion and subsequent working out of how to add the Star Wars theme to the microbit.  I was disappointed in the connection between the homemade wires and firstly the Piezo button which was near on impossible to manipulate the wires around it to make the sound work and I didn't actually succeed in making this do more then a couple of beeps. I then tried another set of headphones which I worked out didn't work after several attempts and some wasted time.  I then ended up using my old apple ear buds which thankfully did work as I was quickly becoming disenchanted with the whole project.  I am still upset with the final outcome of using the earbuds and the quality of the sound and in retrospect wish I had researched the other projects and outcomes before finishing mine.  If I had done this I would have realised I could use the speaker from any noisy toy of which I have many around the house to make a more efficient speaker. There is definitely a lesson in there, read the whole assignment requirements prior to embarking on said project!*
+*I was very pleased with the aesthetics of the guitar and was super proud of my conversion and subsequent working out of how to add the Star Wars theme to the microbit.  I decided rather then ear pods I would use the piezo button for my sound transmitter, I thought it would be louder and easier to attach. I did get disappointed with this qutie quickly as the connection between the homemade wires and the Piezo button was terrible as the home made wire was near on impossible to manipulate around the small button wires.  I didn't actually succeed in making this do more then a couple of beeps which really was quite a shame becasue I definitely felt it would work better.  Unfortunately as plan A didn't work, I needed to use headphones. I tried a set of headphones and it still didn't work and I was starting to think it was just the connection with the home made wires.  After several attempts and some wasted time I tried yet another pair of headphones which thankfully did work as I was becoming disenchanted with the whole project.  I quickly taped it all up and set to recording my now working guitar, I didn't want to risk anything else not working.*    
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+*I am still upset with the final outcome of using the earbuds and the quality of the sound and in retrospect wish I had researched the other projects and outcomes before finishing mine.  If I had done this I would have realised I could use the speaker from any noisy toy of which I have many around the house to make a more efficient speaker. There is definitely a lesson in there, read the whole assignment requirements prior to embarking on said project!*  
 
-As I have just admitted above, I didn't do enough research prior to beginning this project, I only watched the microbit.org 'Guitar/Musical Instrument making videos that were provided with the initial project outlines.  This is a very big learning moment in my project as I have since done the research and found many different options and ideas that I could have utilised in the making of this instrument.  A larger speaker as I mentioned above, knowing that you can add more and more code to the microbit and then it can do several things at once, I thought that you needed to delete each lot of code before adding more.  I will be researching this a lot more for future projects.*
+*I decided after this debacle I would invest in some crocodile clip wires in moving forward.  Just out of curiosity I re-did the experiement again testing out the piezo button and the headphones and you'll be pleased to know my first thoughts were correct and the button would have been a better option. In saying that though I still think the speaker in an old toy is an even better and far superior option altogether, no question.*
 
+*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+
+*As I have just admitted above, I didn't do enough research prior to beginning this project, I only watched the microbit.org 'Guitar/Musical Instrument making videos that were provided with the initial project outlines.  This is a very big learning moment in my project as I have since done the research and found many different options and ideas that I could have utilised in the making of this instrument.  A larger speaker as I mentioned above, knowing that you can add more and more code to the microbit and then it can do several things at once, I thought that you needed to delete each lot of code before adding more.  I will be researching this a lot more for future projects.*
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-I found the 'Micromonsters on Youtube' a very helpful and informative chanel to watch, they had a quite a few different projects that they had recorded, with many different ideas to ponder that gave me some ideas for this project and future projects.  
+*I found the 'Micromonsters on Youtube' a very helpful and informative chanel to watch, the father and daughter team have quite a few different projects that they have recorded, with many different ideas to ponder.  These projects gave me ideas and some help for this project and some more ideas for possible future projects.*  
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
 
-I would like the project to really show the tone better and thought I would love to make it more interactive by adding notes or like a strum effect on the neck of the guitar which some of these other projects above have added, I also saw quite a few pianos that had this kind of interactive quality added to them
+*I would like the project to really show the tone better and thought I would love to make it more interactive by adding notes or like a strum effect on the neck of the guitar or possibly just that vibrate sound guitarists play at the end of the song as you rock it up and down, which some of these other projects did include. I also saw quite a few pianos that were interactive by allowing the user to play notes which would be a great for an older child wishing to play this guitar and wouldn't be to hard to add in.*  
 
