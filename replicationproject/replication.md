@@ -5,7 +5,7 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-I chose to replicate the Guitar Project
+I have chosen to replicate the Musical Instrument Project by making a Guitar.
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
@@ -17,7 +17,7 @@ https://makecode.microbit.org/courses/csintro/arrays/project
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/makecodemicrobitorgcoursescsintroarraysproject.png)
 
-This project is related to mine because it uses the same materials to operate and make the music, it does differ in the code it uses.
+*This project is related to mine because it uses the same materials to operate and make the music, it does differ in the code it uses.*
 
 ### Related project 2 ###
 Sound
@@ -26,7 +26,7 @@ https://microbit-challenges.readthedocs.io/en/latest/tutorials/music.html
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/microbitchallengesreadthedocs.jpg)
 
-This project is related to mine because again it uses the same technology to make noise, although it does use a different type of code.
+*This project is related to mine because again it uses the same technology to make noise, although it does use a different type of code.*
 
 ### Related project 3 ###
 Air-guitar
@@ -35,7 +35,7 @@ https://codesg.imda.gov.sg/air-guitar/
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/codesgimdagovsgairguitar.jpg)
 
-This project is related to mine because it uses similar materies to make it work and this one uses a lot of code I wasn't aware existed until I made my own project and did the research.
+*This project is related to mine because it uses similar materies to make it work and this one uses a lot of code I wasn't aware existed until I made my own project and did the research.*
 
 ### Related project 4 ###
 Touch Arpeggiator
@@ -44,7 +44,7 @@ https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Touch%20arpeggiator.jpg)
 
-This project is related to mine because it uses similar parts to make it work, they have added in an extra step by using fruit and a persons hand to change the way the project works, it changes the flow of the current.
+*This project is related to mine because it uses similar parts to make it work, they have added in an extra step by using fruit and a persons hand to change the way the project works, it changes the flow of the current.*
 
 ### Related project 5 ###
 Air Guitar
@@ -53,7 +53,7 @@ https://make.techwillsaveus.com/microbit/activities/air-guitar
 
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/maketechwillsaveus.jpg)
 
-This project is related to mine because it uses the same parts, however, this project has used a proper diy speaker kit instead of headphones.
+*This project is related to mine because it uses the same parts, however, this project has used a proper diy speaker kit instead of headphones.*
 
 ### Related project 6 ###
 Micro:Bit Air Guitar
@@ -71,47 +71,39 @@ This project is related to mine because it uses the same parts and again this on
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading. Good and memorable experiences are in important part in ensuring an interaction works well, if the person is frustrated by the experience then they are not going to want continue with the product.  If the experience is a good one then the person will want to have that experience again and therefore the interaction is a potential profitable one.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.With a design product we need affordances to show us what actions are possible and signifiers to show us where the action should take place.  We need both but in design the signifier is the more important because it communicates how to use the project or design properly or for its intended purpose.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about. I think I’d like to learn more about feedback, I never realised how frustrated and annoyed I get at lights, whether when waiting in my car or to cross at the lights.  I never know whether the lights are working because they seem to take forever. I would like to make sure my next project gives immediate feedback.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project. One thing that annoyed me about my musical instrument project was that I never knew totally whether the tone was working, I think I need to make sure with my next project that the feedback from whatever I create is reasonably timed so you know it has worked.*
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading. I just really didn’t think about microinteractions to be honest, I might occasionally marvel at something and think wow, there are some smart people around or I wonder who thought to make this but that is as far as I'd get.  *
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge. I had no idea what microinteractions were to be honest, it is fascinating to think that so many things I do on a regular basis have been so well thought out and I just take them for granted. Hopefully in moving forward I will take more note.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about. I would now love to learn more about this process and how they do these things, it truly is quite remarkable, that someone is constantly sitting in a room and thinking about how to change everyday taken for granted things.  I would love to know how to rotate a portrait picture in Github or Dropbox to a landscape picture for a start as this is so frustrating! All these wonderful things out there and I can’t turn a picture around for this assignment.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project. On reflection of the project I have done, there is so many other things I would love to change about it, add to it and make it do, I’d love to make it way more interactive and less clunky.  Reading this article and everything I do with this subject at the minute highlights something else I would love to know about and be able to do, if only we could create something that would delay time so I could fit in all of these things that I want to learn about.  Spending hours on the internet researching how to do things unfortunately isn’t a luxury a lot of us have!*
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading. Unfortunately, my knowledge on such subjects is rudimentary to say the least, however, I am learning very quickly that there is many different ways to get a project to work and it is very exciting. *
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge. I had know idea what a Arduino was but am fascinated to learn more about the project and to delve into code a lot more as it really does seem an important part of product design.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about. I would love to know more about how the Arduino works, I want to use movement sensors to turn on a light in my main project potentially.  I will be doing some more research based on this article.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project. It was a great read, the guy is passionate and excited about his work and it comes across in his writing.  It has made me think about different ways of setting up my next project and what I might do for my next project.  *
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
-
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20Flow%20Chart.jpg)
 
 ## Process documentation
-
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 ### Making the Musical Instrument ###
 
@@ -141,6 +133,7 @@ https://vimeo.com/404498005
 
 
 *Almost finished and it's looking good.*
+
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20cutout.jpg)
 
 
@@ -173,7 +166,8 @@ https://vimeo.com/404498005
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2010%20Paint.jpg)
 
 
-*The handle is quite flimsy so I need to add the two strips of reinforcement to the back of the guitar.*
+*The handle is quite flimsy so I need to add the two strips of reinforcement to the back of the guitar. I will rest this gym bar on it to make sure it sticks*
+
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2011%20reinforce%20handle.jpg)
 
 
@@ -205,15 +199,15 @@ https://vimeo.com/404498005
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2018%20Botton%20A%20playing.jpg)
 
 
-*Code on computer for button A*
+*Code on computer for button A.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2019%20Button%20A%20Happy%20Birthday%20plus%20a%20repeat.jpg)
 
 
-*Some of the music explained for this beginner - source: micromonsters,youtube,2017
+*Some of the music explained for this beginner - source: micromonsters,youtube,2017.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2021%20lets%20learn%20how%20to%20make%20it%20more%20complex.jpg)
 
 
-*Star Wars theme musical notes - source: micromonsters,youtube,2017
+*Star Wars theme musical notes - source: micromonsters,youtube,2017.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2022%20more%20complex%20with%20starwars.jpg)
 
 
@@ -221,11 +215,11 @@ https://vimeo.com/404498005
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2023%20Converting%20music%20to%20code.jpg)
 
 
-*Showing the use of extra strength on the neck of the guitar*
+*Showing the use of extra strength on the neck of the guitar.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%2025%20final%20show%20reinforcing%20on%20back.jpg)
 
 
-*Showing the screenshot of the code for 'Happy Birthday' repeat twice and 'Star Wars' theme song.
+*Showing the screenshot of the code for 'Happy Birthday' repeat twice and 'Star Wars' theme song.*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20code%20(Canva-edited).jpg)
 
 
