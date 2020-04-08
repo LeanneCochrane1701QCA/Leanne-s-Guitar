@@ -181,6 +181,8 @@ https://vimeo.com/404498005
 
 
 *Some red will make it pretty and make it stand out, I'm going to use bright blue tape to attach the microbit to the guitar and I think the colours will compliment each other.*
+
+
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20painting%20red.jpg)
 
 
