@@ -272,7 +272,10 @@ https://vimeo.com/404498005
 *What a handsome young man, showing the world his fantastic new air guitar..*
 ![Image](https://github.com/LeanneCochrane1701QCA/Leanne-s-Guitar/blob/master/Guitar%20showcase%20Dan%20looking.jpg)
 
-*A Short video playing just the songs on the microbit and checking it works before attaching it to the Guitar.*
+*Here is the video of my son playing his new guitar*
+https://vimeo.com/404482332
+
+*A Short video playing just the songs on the microbit and checking it works before I attach it to the Guitar.*
 https://vimeo.com/manage/404484517/general
 
 ### Reflection ###
